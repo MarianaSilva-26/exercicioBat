@@ -1,0 +1,43 @@
+ O volume na unidade C n∆o tem nome.
+ O N£mero de SÇrie do Volume Ç 1C84-B9A7
+
+ Pasta de C:\Program Files
+
+13/09/2020  15:59    <DIR>          .
+13/09/2020  15:59    <DIR>          ..
+10/09/2020  02:27    <DIR>          Avast Software
+17/08/2019  01:18    <DIR>          AVG
+17/08/2019  00:26    <DIR>          Cisco
+10/09/2020  02:27    <DIR>          Common Files
+13/09/2020  00:29    <DIR>          dotnet
+11/09/2020  23:19    <DIR>          DriverToolkit
+22/08/2019  22:42    <DIR>          DVD Maker
+13/09/2020  16:00    <DIR>          Git
+05/11/2019  21:41    <DIR>          Google
+18/08/2019  23:23    <DIR>          Hewlett-Packard
+17/08/2019  00:55    <DIR>          Intel
+04/02/2020  03:30    <DIR>          Internet Explorer
+07/09/2020  17:18    <DIR>          KMSpico
+11/09/2020  23:30    <DIR>          McAfee
+12/04/2011  01:56    <DIR>          Microsoft Games
+10/09/2020  01:23    <DIR>          Microsoft Office
+16/08/2019  00:36    <DIR>          Microsoft Office 15
+16/08/2019  00:47    <DIR>          Microsoft OneDrive
+13/09/2020  13:51    <DIR>          Microsoft.NET
+10/09/2020  02:24    <DIR>          MonitorDriver
+14/07/2009  01:52    <DIR>          MSBuild
+12/09/2020  14:43    <DIR>          Realtek
+12/09/2020  14:43    <DIR>          REALTEK USB Wireless LAN Driver
+14/07/2009  01:52    <DIR>          Reference Assemblies
+10/09/2020  01:26    <DIR>          Teams Installer
+11/02/2016  08:06    <DIR>          Windows Defender
+17/08/2019  16:33    <DIR>          Windows Journal
+12/04/2011  01:47    <DIR>          Windows Mail
+22/08/2019  22:42    <DIR>          Windows Media Player
+16/08/2019  00:06    <DIR>          Windows NT
+12/04/2011  01:47    <DIR>          Windows Photo Viewer
+20/11/2010  18:33    <DIR>          Windows Portable Devices
+12/04/2011  01:47    <DIR>          Windows Sidebar
+16/08/2019  00:35    <DIR>          WinRAR
+               0 arquivo(s)              0 bytes
+              36 pasta(s)   44.368.449.536 bytes dispon°veis
